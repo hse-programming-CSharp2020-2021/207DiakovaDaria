@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\obj\Debug\netcoreapp3.1\sem_12_01_21.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\obj\Debug\netcoreapp3.1\sem_12_01_21.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\obj\Debug\netcoreapp3.1\sem_12_01_21.AssemblyInfo.cs
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\obj\Debug\netcoreapp3.1\sem_12_01_21.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\bin\Debug\netcoreapp3.1\sem_12_01_21.exe
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\bin\Debug\netcoreapp3.1\sem_12_01_21.deps.json
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\bin\Debug\netcoreapp3.1\sem_12_01_21.runtimeconfig.json
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\bin\Debug\netcoreapp3.1\sem_12_01_21.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\bin\Debug\netcoreapp3.1\sem_12_01_21.dll
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\bin\Debug\netcoreapp3.1\sem_12_01_21.pdb
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\obj\Debug\netcoreapp3.1\sem_12_01_21.dll
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\obj\Debug\netcoreapp3.1\sem_12_01_21.pdb
+C:\Users\Asus\source\repos\sem_12_01_21\sem_12_01_21\obj\Debug\netcoreapp3.1\sem_12_01_21.genruntimeconfig.cache

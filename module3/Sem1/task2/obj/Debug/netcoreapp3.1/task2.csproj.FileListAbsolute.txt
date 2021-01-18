@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\sem_12_01_21\task2\bin\Debug\netcoreapp3.1\task2.exe
+C:\Users\Asus\source\repos\sem_12_01_21\task2\bin\Debug\netcoreapp3.1\task2.deps.json
+C:\Users\Asus\source\repos\sem_12_01_21\task2\bin\Debug\netcoreapp3.1\task2.runtimeconfig.json
+C:\Users\Asus\source\repos\sem_12_01_21\task2\bin\Debug\netcoreapp3.1\task2.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\sem_12_01_21\task2\bin\Debug\netcoreapp3.1\task2.dll
+C:\Users\Asus\source\repos\sem_12_01_21\task2\bin\Debug\netcoreapp3.1\task2.pdb
+C:\Users\Asus\source\repos\sem_12_01_21\task2\obj\Debug\netcoreapp3.1\task2.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\sem_12_01_21\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\sem_12_01_21\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfo.cs
+C:\Users\Asus\source\repos\sem_12_01_21\task2\obj\Debug\netcoreapp3.1\task2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\sem_12_01_21\task2\obj\Debug\netcoreapp3.1\task2.dll
+C:\Users\Asus\source\repos\sem_12_01_21\task2\obj\Debug\netcoreapp3.1\task2.pdb
+C:\Users\Asus\source\repos\sem_12_01_21\task2\obj\Debug\netcoreapp3.1\task2.genruntimeconfig.cache
