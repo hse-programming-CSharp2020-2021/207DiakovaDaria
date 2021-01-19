@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\task3\\task3_2\\task3_2.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\GitHub\\207DiakovaDaria\\module3\\HW1\\task3_2\\task3_2.csproj",
       "projectName": "task3_2",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\task3\\task3_2\\task3_2.csproj",
+      "projectPath": "C:\\Users\\Asus\\source\\repos\\GitHub\\207DiakovaDaria\\module3\\HW1\\task3_2\\task3_2.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\task3\\task3_2\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\source\\repos\\GitHub\\207DiakovaDaria\\module3\\HW1\\task3_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
