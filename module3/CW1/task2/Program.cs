@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace task2
 {
@@ -21,7 +21,7 @@ namespace task2
             double num2 = 7.32;
             Cast multcast = del1;
             multcast += del2;
-            Console.WriteLine("del1 test:");
+            Console.WriteLine("del1 test:");.....
             Console.WriteLine(del1(num));
             Console.WriteLine(del1(num2));
             Console.WriteLine("del2 test:");
