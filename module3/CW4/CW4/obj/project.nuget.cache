@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m1th06Zzwcu/JGHtQ0zZmBleEX+HhIifcCAN6ktJuvvNdCi29obsO18ceddjgtz537HWdR3TloUIWklm21YgBQ==",
+  "dgSpecHash": "8ZtLNI8kx11WFT/eqWK4ba2mOd9RipiXR+qx76CvxirvFusnwIVJBJsvB2Z/r+/2ikeAygCR8JkrDyn+XAV8Yg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Asus\\source\\repos\\GitHub\\207DiakovaDaria\\module3\\CW4\\CW4\\Task1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
   "logs": []
 }
